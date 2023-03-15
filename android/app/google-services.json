@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1007758038572",
+    "project_id": "payment-b8fc3",
+    "storage_bucket": "payment-b8fc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007758038572:android:ab84222c5249aec1482389",
+        "android_client_info": {
+          "package_name": "com.example.paypay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007758038572-13jab3hv09vh1tp7oiqr1c38a7nordoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paypay",
+            "certificate_hash": "f891c9d537b05bb3145e82b5df4ff177ffdb2116"
+          }
+        },
+        {
+          "client_id": "1007758038572-hes752e1rt3s73iqa45k9gf7u15sgi36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjspuN6kt93ryhhsklGLHhKv4B31SbzeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007758038572-hes752e1rt3s73iqa45k9gf7u15sgi36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1007758038572-0h68ja5khje52u1f9tc8ejb9l1lcsjva.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paypay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
